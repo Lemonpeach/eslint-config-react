@@ -1,0 +1,15 @@
+{
+  "name": "@hydrogenjs/eslint-config-react",
+  "version": "0.0.0",
+  "description": "sharable eslint configuration for react applications",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-import-resolver-babel-module": "^5.0.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
