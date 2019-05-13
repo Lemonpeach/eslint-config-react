@@ -7,7 +7,9 @@ module.exports = {
       "asyncArrow": "always"
     }],
     "semi": ["error", "always"],
-    "import/no-unresolved": [2, { commonjs: true, amd: true }]
+    "import/no-unresolved": [2, { commonjs: true, amd: true }],
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn"
   },
   "settings": {
     "react": {
