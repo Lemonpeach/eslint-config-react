@@ -1,5 +1,6 @@
 module.exports = {
   "extends": ["standard", "plugin:react/recommended"],
+  "plugins": ["react-hooks"],
   "rules": {
     "space-before-function-paren": ["error", {
       "anonymous": "never",
