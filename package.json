@@ -1,6 +1,6 @@
 {
   "name": "@hydrogenjs/eslint-config-react",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "sharable eslint configuration for react applications",
   "main": "index.js",
   "dependencies": {
